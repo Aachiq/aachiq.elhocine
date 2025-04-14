@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/aachiq.elhocine/static/css/main.dd5c6f11.chunk.css",
-    "main.js": "/aachiq.elhocine/static/js/main.71b0f244.chunk.js",
-    "main.js.map": "/aachiq.elhocine/static/js/main.71b0f244.chunk.js.map",
-    "runtime-main.js": "/aachiq.elhocine/static/js/runtime-main.3b0cdb43.js",
-    "runtime-main.js.map": "/aachiq.elhocine/static/js/runtime-main.3b0cdb43.js.map",
-    "static/js/2.b9f90028.chunk.js": "/aachiq.elhocine/static/js/2.b9f90028.chunk.js",
-    "static/js/2.b9f90028.chunk.js.map": "/aachiq.elhocine/static/js/2.b9f90028.chunk.js.map",
+    "main.js": "/aachiq.elhocine/static/js/main.47861e38.chunk.js",
+    "main.js.map": "/aachiq.elhocine/static/js/main.47861e38.chunk.js.map",
+    "runtime-main.js": "/aachiq.elhocine/static/js/runtime-main.fd66ed06.js",
+    "runtime-main.js.map": "/aachiq.elhocine/static/js/runtime-main.fd66ed06.js.map",
+    "static/js/2.148e0022.chunk.js": "/aachiq.elhocine/static/js/2.148e0022.chunk.js",
+    "static/js/2.148e0022.chunk.js.map": "/aachiq.elhocine/static/js/2.148e0022.chunk.js.map",
     "index.html": "/aachiq.elhocine/index.html",
     "static/css/main.dd5c6f11.chunk.css.map": "/aachiq.elhocine/static/css/main.dd5c6f11.chunk.css.map",
-    "static/js/2.b9f90028.chunk.js.LICENSE.txt": "/aachiq.elhocine/static/js/2.b9f90028.chunk.js.LICENSE.txt"
+    "static/js/2.148e0022.chunk.js.LICENSE.txt": "/aachiq.elhocine/static/js/2.148e0022.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3b0cdb43.js",
-    "static/js/2.b9f90028.chunk.js",
+    "static/js/runtime-main.fd66ed06.js",
+    "static/js/2.148e0022.chunk.js",
     "static/css/main.dd5c6f11.chunk.css",
-    "static/js/main.71b0f244.chunk.js"
+    "static/js/main.47861e38.chunk.js"
   ]
 }

@@ -117,6 +117,7 @@ const skills = [
   'JavaScript',
   'TypeScript',
   'React',
+  'Nextjs',
   'Redux',
   'SASS',
   'Material UI',
@@ -124,9 +125,12 @@ const skills = [
   'CI/CD',
   'Docker',
   'Nodejs',
+  'Express',
+  'Nestjs',
   'Jest',
   'Enzyme',
-  'React Testing Library'
+  'React Testing Library',
+
 ]
 
 const blogPosts = [

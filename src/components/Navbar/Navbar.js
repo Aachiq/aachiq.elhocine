@@ -43,7 +43,7 @@ const Navbar = () => {
           </li>
         ) : null}
 
-        {/* {blogPosts.length > 0 ? (
+        {blogPosts.length > 0 ? (
           <li className='nav__list-item'>
             <a
               href='#blog'
@@ -53,7 +53,7 @@ const Navbar = () => {
               Blog
             </a>
           </li>
-        ) : null} */}
+        ) : null}
 
         {contact.email ? (
           <li className='nav__list-item'>

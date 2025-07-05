@@ -18,11 +18,11 @@ const Projects = () => {
         }}
       >
         {projects.map((project) => (
-          <ProjectContainer key={uniqid()} project={project} />
+          <ProjectContainer key={uniqid()} project={project} isPersonnalProj={false} />
         ))}
       </div>
       {/* Personnal Projects */}
-      {/* <h2 className='section__title'>Personnal Projects</h2>
+      <h2 className='section__title'>Personnal Projects</h2>
 
       <div
         // className='projects__grid'
@@ -32,9 +32,9 @@ const Projects = () => {
         }}
       >
         {personnalProjects.map((project) => (
-          <ProjectContainer key={uniqid()} project={project} />
+          <ProjectContainer key={uniqid()} project={project} isPersonnalProj />
         ))}
-      </div> */}
+      </div>
 
     </section>
   )

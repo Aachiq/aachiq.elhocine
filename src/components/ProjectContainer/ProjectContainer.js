@@ -1,7 +1,7 @@
 import uniqid from 'uniqid'
 import './ProjectContainer.css'
 
-const ProjectContainer = ({ project }) => (
+const ProjectContainer = ({ project, isPersonnalProj }) => (
   <div className='project' style={{ margin: '10px' }}>
     <h3 className='project-title'>{project.name}</h3>
     <img src={`/aachiq.elhocine/images/${project.image}`} alt='project_img' width='100%' />
@@ -22,8 +22,9 @@ const ProjectContainer = ({ project }) => (
         // aria-label='source code'
         className='link link--icon'
         target='blank'
+        style={{ marginTop: '5px', color: "var(--clr-primary)", fontWeight: 500 }}
       >
-        {project.linkPreview}
+        {isPersonnalProj ? "Demo Link" : project.linkPreview}
       </a>
     )}
   </div>

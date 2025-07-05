@@ -6,7 +6,7 @@ const header = {
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'AACHIQ Elhocne',
+  name: 'AACHIQ Elhocine',
   role: 'FullStack Web/Mobile Javascript Engineer',
   description: 'I am a passionate FullStack Web/Mobile JavaScript Engineer with a strong focus on building dynamic, high-performance, and user-friendly applications. With expertise in React.js, Node.js, TypeScript, and modern technologies, I develop seamless and interactive experiences for both web and mobile platforms that drive engagement and usability.',
   resume: 'https://www.linkedin.com/in/elhocine-aachiq-68b10a200/',

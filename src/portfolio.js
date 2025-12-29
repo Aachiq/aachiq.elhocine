@@ -60,6 +60,13 @@ const projects = [
     linkPreview: 'https://shemsalmadina.ma/',
   },
   {
+    name: "ERP for ENA School ",
+    image: "ERP_INA.jpg",
+    description: "Internal ERP system for the École Nationale d’Architecture de Rabat to manage academic, administrative, and student operations.",
+    // stack: ["Nextjs", "Tailwind", "TypeScript"],
+    // linkPreview: "",
+  },
+  {
     name: 'Corlay AI',
     image: 'coraly-ai.png',
     description: 'AI-powered platform for real estate data analysis and decision-making.',
@@ -117,14 +124,14 @@ const personnalProjects = [
     image: 'ecom1.png',
     description: 'An e-commerce platform with a full-stack setup, including an admin dashboard for managing products and orders.',
     // stack: ['SASS', 'TypeScript', 'React'],
-    linkPreview: 'https://tinyurl.com/z6xjrnvf'
+    linkPreview: 'https://www.linkedin.com/feed/update/urn:li:activity:7256647144068071424/?originTrackingId=6UPF42fsQjWUUVWv1S%2BdLg%3D%3D'
   },
   {
     name: 'LinkedIn Site Using React With Styled Component ',
     image: 'linkedIn1.png',
     description: 'An e-commerce platform with a full-stack setup, including an admin dashboard for managing products and orders.',
     // stack: ['SASS', 'TypeScript', 'React'],
-    linkPreview: 'https://shemsalmadina.ma/'
+    linkPreview: 'https://www.linkedin.com/feed/update/urn:li:activity:7325138451211722752/'
   },
   {
     name: 'More Projects ...',

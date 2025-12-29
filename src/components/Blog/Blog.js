@@ -1,5 +1,4 @@
 import uniqid from 'uniqid'
-import ProjectContainer from '../ProjectContainer/ProjectContainer'
 import './Blog.css'
 import { blogPosts } from '../../portfolio'
 import BlogContainer from './BlogContainer'

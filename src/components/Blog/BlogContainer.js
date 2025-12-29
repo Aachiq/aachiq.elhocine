@@ -23,7 +23,6 @@ const BlogContainer = ({ project }) => (
                 className='link link--icon'
                 target='blank'
                 style={{ marginTop: '5px', color: "var(--clr-primary)", fontWeight: 500 }}
-
             >
                 {/* {project.linkPreview} */}
                 Read More ...

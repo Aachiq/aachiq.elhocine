@@ -56,9 +56,37 @@ const projects = [
     name: 'Shems AlMadina Immobilier',
     image: 'shems-almadina.png',
     description: 'Real estate platform for buying, selling, and renting properties in Morocco.',
-    // stack: ['SASS', 'TypeScript', 'React'],
+    stack: ['React', 'TypeScript', 'Nodejs', 'Postgre'],
     linkPreview: 'https://shemsalmadina.ma/',
   },
+  {
+    name: 'Corlay AI',
+    image: 'coraly-ai.png',
+    description: 'AI-powered platform for real estate data analysis and decision-making.',
+    stack: ['Nextjs', 'Tailwind', 'TypeScript', 'Sanity'],
+    linkPreview: 'https://www.coraly.ai/en/',
+  },
+  {
+    name: 'Marahb',
+    image: 'marahb.png',
+    description: 'Corporate website for a UAE-based hospitality and services company.',
+    stack: ['Nextjs', 'Tailwind', 'TypeScript', 'Nodejs', 'Supabase'],
+    linkPreview: 'https://www.coraly.ai/en/',
+  },
+  // {
+  //   name: 'Craftsoft',
+  //   image: 'shems-almadina.png',
+  //   description: 'Entreprise website for accounting company in Morocco .',
+  //   // stack: ['SASS', 'TypeScript', 'React'],
+  //   linkPreview: 'https://shemsalmadina.ma/',
+  // },
+  // {
+  //   name: 'Confidential',
+  //   image: 'restauration.jpg',
+  //   description: 'Saas Platform For Restauration .',
+  //   // stack: ['SASS', 'TypeScript', 'React'],
+  //   // linkPreview: 'https://shemsalmadina.ma/',
+  // },
 ]
 
 

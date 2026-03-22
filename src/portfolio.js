@@ -66,6 +66,20 @@ const projects = [
     // stack: ["Nextjs", "Tailwind", "TypeScript"],
     // linkPreview: "",
   },
+  // {
+  //   name: 'Craftsoft',
+  //   image: 'shems-almadina.png',
+  //   description: 'Entreprise website for accounting company in Morocco .',
+  //   // stack: ['SASS', 'TypeScript', 'React'],
+  //   linkPreview: 'https://shemsalmadina.ma/',
+  // },
+  {
+    name: 'Confidential',
+    image: 'restauration.jpg',
+    description: 'Saas Platform For Restauration .',
+    // stack: ['SASS', 'TypeScript', 'React'],
+    // linkPreview: 'https://shemsalmadina.ma/',
+  },
   {
     name: 'Corlay AI',
     image: 'coraly-ai.png',
@@ -78,22 +92,15 @@ const projects = [
     image: 'marahb.png',
     description: 'Corporate website for a UAE-based hospitality and services company.',
     stack: ['Nextjs', 'Tailwind', 'TypeScript', 'Nodejs', 'Supabase'],
-    linkPreview: 'https://www.coraly.ai/en/',
+    linkPreview: 'https://www.marahb.ae/',
   },
-  // {
-  //   name: 'Craftsoft',
-  //   image: 'shems-almadina.png',
-  //   description: 'Entreprise website for accounting company in Morocco .',
-  //   // stack: ['SASS', 'TypeScript', 'React'],
-  //   linkPreview: 'https://shemsalmadina.ma/',
-  // },
-  // {
-  //   name: 'Confidential',
-  //   image: 'restauration.jpg',
-  //   description: 'Saas Platform For Restauration .',
-  //   // stack: ['SASS', 'TypeScript', 'React'],
-  //   // linkPreview: 'https://shemsalmadina.ma/',
-  // },
+  {
+    name: 'Space Match',
+    image: 'spacematch.png',
+    description: 'Corporate website for a UAE-based hospitality and services company.',
+    stack: ['Nextjs', 'Tailwind', 'TypeScript', 'Nodejs', 'Supabase', 'aws-s3'],
+    linkPreview: 'https://spacematch.ae/',
+  },
 ]
 
 

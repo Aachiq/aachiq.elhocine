@@ -18,18 +18,32 @@ const about = {
 
 const projects = [
   {
-    name: 'Afric Trust',
-    image: 'afric-trust.png',
-    description: 'A platform offering financial services and investment opportunities across Africa.',
-    // stack: ['SASS', 'TypeScript', 'React'],
-    linkPreview: 'https://www.africtrust.com',
+    name: 'OpenView',
+    image: 'openV.png',
+    description: 'Dashboard Entreprise website for accounting company in Morocco .',
+    stack: ['React', 'Material UI', 'React Admin', 'Redux'],
+    // linkPreview: 'https://shemsalmadina.ma/',
+  },
+  {
+    name: "ERP for ENA School ",
+    image: "ERP_INA.jpg",
+    description: "Internal ERP system for the École Nationale d’Architecture de Rabat to manage academic, administrative, and student operations.",
+    // stack: ["Nextjs", "Tailwind", "TypeScript"],
+    // linkPreview: "",
   },
   {
     name: 'Crédit Habitat',
     image: 'credit-habitat.png',
     description: 'Providing home loans and real estate investment solutions in Morocco.',
-    // stack: ['SASS', 'TypeScript', 'React'],
+    stack: ['TypeScript', 'React', 'Redux-Saga', 'Nodejs'],
     linkPreview: 'https://www.credithabitat.ma',
+  },
+  {
+    name: 'Afric Trust',
+    image: 'afric-trust.png',
+    description: 'A platform offering financial services and investment opportunities across Africa.',
+    stack: ['TypeScript', 'React', 'Redux-Toolkit', 'SpringBoot'],
+    linkPreview: 'https://www.africtrust.com',
   },
   {
     name: 'Daba Transfert Platform',
@@ -39,6 +53,27 @@ const projects = [
     linkPreview: 'https://www.dabatransfer.com',
   },
   {
+    name: 'Craftsoft Showcase Website',
+    image: 'craft.png',
+    description: 'Entreprise website for accounting company, highlighting its services in financial management, and accounting solutions.o.',
+    // stack: ['SASS', 'TypeScript', 'React'],
+    linkPreview: 'https://shemsalmadina.ma/',
+  },
+  {
+    name: 'Groupe Immobilier',
+    image: 'immobilier.png',
+    description: 'Real estate platform for buying, selling, and renting properties in Morocco.',
+    stack: ['React', 'TypeScript', 'Nodejs', 'Postgre'],
+    linkPreview: 'https://shemsalmadina.ma/',
+  },
+  {
+    name: 'Credit Entreprise',
+    image: 'credit-entreprises.png',
+    description: 'Financing solutions for businesses to manage cash flow and growth.',
+    stack: ['React', 'Redux', 'TypeScript', 'SpringBoot'],
+    linkPreview: 'https://www.creditbusinessonline.ma/',
+  },
+  {
     name: 'Daba Transfert Mobile',
     image: 'daba-transfert-mobile.png',
     description: 'Mobile app for easy and secure money transfers.',
@@ -46,37 +81,9 @@ const projects = [
     linkPreview: 'https://play.google.com/store/apps/details?id=co.dabasfer',
   },
   {
-    name: 'Credit Entreprise',
-    image: 'credit-entreprises.png',
-    description: 'Financing solutions for businesses to manage cash flow and growth.',
-    // stack: ['SASS', 'TypeScript', 'React'],
-    linkPreview: 'https://www.creditbusinessonline.ma/',
-  },
-  {
-    name: 'Shems AlMadina Immobilier',
-    image: 'shems-almadina.png',
-    description: 'Real estate platform for buying, selling, and renting properties in Morocco.',
-    stack: ['React', 'TypeScript', 'Nodejs', 'Postgre'],
-    linkPreview: 'https://shemsalmadina.ma/',
-  },
-  {
-    name: "ERP for ENA School ",
-    image: "ERP_INA.jpg",
-    description: "Internal ERP system for the École Nationale d’Architecture de Rabat to manage academic, administrative, and student operations.",
-    // stack: ["Nextjs", "Tailwind", "TypeScript"],
-    // linkPreview: "",
-  },
-  // {
-  //   name: 'Craftsoft',
-  //   image: 'shems-almadina.png',
-  //   description: 'Entreprise website for accounting company in Morocco .',
-  //   // stack: ['SASS', 'TypeScript', 'React'],
-  //   linkPreview: 'https://shemsalmadina.ma/',
-  // },
-  {
     name: 'Confidential',
     image: 'restauration.jpg',
-    description: 'Saas Platform For Restauration .',
+    description: 'Saas Platform For Restauration.',
     // stack: ['SASS', 'TypeScript', 'React'],
     // linkPreview: 'https://shemsalmadina.ma/',
   },
@@ -139,6 +146,13 @@ const personnalProjects = [
     description: 'An e-commerce platform with a full-stack setup, including an admin dashboard for managing products and orders.',
     // stack: ['SASS', 'TypeScript', 'React'],
     linkPreview: 'https://www.linkedin.com/feed/update/urn:li:activity:7325138451211722752/'
+  },
+  {
+    name: 'Mobile Appliaction of English Learning',
+    image: 'mobapp.png',
+    description: 'A mobile app designed to help users learn English through real-life conversations.',
+    stack: ['React Native', 'TypeScript', 'Expo'],
+    linkPreview: 'https://www.linkedin.com/posts/elhocine-a-68b10a200_reactnative-expo-reactjs-activity-7285275789829259264-S6Kb?utm_source=share&utm_medium=member_desktop&rcm=ACoAADNGE0sB--7vKv4edZa5P7EFBdSwhZjam2A'
   },
   {
     name: 'More Projects ...',

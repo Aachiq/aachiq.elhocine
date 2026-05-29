@@ -74,20 +74,6 @@ const projects = [
     linkPreview: 'https://www.creditbusinessonline.ma/',
   },
   {
-    name: 'Daba Transfert Mobile',
-    image: 'daba-transfert-mobile.png',
-    description: 'Mobile app for easy and secure money transfers.',
-    // stack: ['SASS', 'TypeScript', 'React'],
-    linkPreview: 'https://play.google.com/store/apps/details?id=co.dabasfer',
-  },
-  {
-    name: 'Confidential',
-    image: 'restauration.jpg',
-    description: 'Saas Platform For Restauration.',
-    // stack: ['SASS', 'TypeScript', 'React'],
-    // linkPreview: 'https://shemsalmadina.ma/',
-  },
-  {
     name: 'Corlay AI',
     image: 'coraly-ai.png',
     description: 'AI-powered platform for real estate data analysis and decision-making.',
@@ -100,6 +86,20 @@ const projects = [
     description: 'Corporate website for a UAE-based hospitality and services company.',
     stack: ['Nextjs', 'Tailwind', 'TypeScript', 'Nodejs', 'Supabase'],
     linkPreview: 'https://www.marahb.ae/',
+  },
+  {
+    name: 'Daba Transfert Mobile',
+    image: 'daba-transfert-mobile.png',
+    description: 'Mobile app for easy and secure money transfers.',
+    // stack: ['SASS', 'TypeScript', 'React'],
+    linkPreview: 'https://play.google.com/store/apps/details?id=co.dabasfer',
+  },
+  {
+    name: 'Confidential',
+    image: 'restauration.jpg',
+    description: 'Saas Platform For Restauration.',
+    // stack: ['SASS', 'TypeScript', 'React'],
+    // linkPreview: 'https://shemsalmadina.ma/',
   },
   {
     name: 'Space Match',
